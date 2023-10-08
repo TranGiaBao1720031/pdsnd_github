@@ -2,24 +2,17 @@
 
 ### Date created
 Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
+October 8 2023 
+### Post Your Work on Github
 ### Description
-Describe what your project is about and what it does
-
+In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
 ### Files used
-Include the files used
-
+1. The following file contains necessary used to do tasks:
+   bikeshare_2.py 
+   README.md
+   Git Commands Documenation.pdf
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://git-scm.com/doc
 
-### add additional changes to this file
-Make at leat two changes to the README file
 
-### Files Used
-chicago.csv
-new_york_city.csv
-washington.csv
-bikeshare_2.py
+
